@@ -1,0 +1,15 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img.profile {
+  padding: 20px;
+  width: 80%;
+  max-width: 300px;
+  border: 2px dotted blue;
+  box-shadow: 10px 10px lightblue;
+}
+
+.hidden {
+  display: none;
+}
